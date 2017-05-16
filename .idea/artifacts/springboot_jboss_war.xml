@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot_jboss:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="belajar-springboot-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot_jboss:war exploded" />
+    </root>
+  </artifact>
+</component>

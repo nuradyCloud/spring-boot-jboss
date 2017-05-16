@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="belajar-springboot" />
+        <module name="springboot_jboss" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="belajar-springboot" target="1.6" />
+      <module name="springboot_jboss" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
